@@ -1,0 +1,14 @@
+﻿{
+    "displayName":  "Microsoft Sentinel Cost (EUR) - sentinel-la",
+    "serializedData":  null,
+    "version":  "1.0",
+    "category":  "sentinel",
+    "userId":  "ab09340b-64bf-4d84-beb4-9dda9453f300",
+    "sourceId":  "/subscriptions/67ff03c2-6c4e-4f6a-86b1-49a997dcc42a/resourcegroups/rg-sentinel-prod/providers/microsoft.operationalinsights/workspaces/sentinel-la",
+    "timeModified":  "\/Date(1746789372753)\/",
+    "tags":  [
+                 "MicrosoftSentinelCostEUR"
+             ],
+    "storageUri":  null,
+    "revision":  "de0b44f5db90450aa75e1ec0330f6bb0"
+}
