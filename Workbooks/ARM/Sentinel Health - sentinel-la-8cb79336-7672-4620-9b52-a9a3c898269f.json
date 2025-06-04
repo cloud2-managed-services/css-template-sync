@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.0",
+    "category":  "sentinel",
+    "sourceId":  "/subscriptions/67ff03c2-6c4e-4f6a-86b1-49a997dcc42a/resourcegroups/rg-sentinel-prod/providers/microsoft.operationalinsights/workspaces/sentinel-la",
+    "id":  "/subscriptions/67ff03c2-6c4e-4f6a-86b1-49a997dcc42a/resourcegroups/rg-sentinel-prod/providers/microsoft.insights/workbooks/8cb79336-7672-4620-9b52-a9a3c898269f",
+    "location":  "westeurope",
+    "name":  "Sentinel Health - sentinel-la",
+    "kind":  "shared",
+    "serializedData":  {
+
+                       }
+}

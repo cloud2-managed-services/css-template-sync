@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.0",
+    "category":  "sentinel",
+    "sourceId":  "/subscriptions/67ff03c2-6c4e-4f6a-86b1-49a997dcc42a/resourcegroups/rg-sentinel-prod/providers/microsoft.operationalinsights/workspaces/sentinel-la",
+    "id":  "/subscriptions/67ff03c2-6c4e-4f6a-86b1-49a997dcc42a/resourcegroups/rg-sentinel-prod/providers/microsoft.insights/workbooks/70d46285-db41-4e74-95a4-2a1dffa91ac0",
+    "location":  "westeurope",
+    "name":  "Azure Activity - sentinel-la",
+    "kind":  "shared",
+    "serializedData":  {
+
+                       }
+}

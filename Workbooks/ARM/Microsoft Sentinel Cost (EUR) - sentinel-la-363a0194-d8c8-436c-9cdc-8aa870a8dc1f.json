@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.0",
+    "category":  "sentinel",
+    "sourceId":  "/subscriptions/67ff03c2-6c4e-4f6a-86b1-49a997dcc42a/resourcegroups/rg-sentinel-prod/providers/microsoft.operationalinsights/workspaces/sentinel-la",
+    "id":  "/subscriptions/67ff03c2-6c4e-4f6a-86b1-49a997dcc42a/resourcegroups/rg-sentinel-prod/providers/microsoft.insights/workbooks/363a0194-d8c8-436c-9cdc-8aa870a8dc1f",
+    "location":  "westeurope",
+    "name":  "Microsoft Sentinel Cost (EUR) - sentinel-la",
+    "kind":  "shared",
+    "serializedData":  {
+
+                       }
+}
